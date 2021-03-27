@@ -1,0 +1,391 @@
+body {
+font-family: nasalization, sans-serif;
+}
+
+.navbar{
+    background: url("NavBarBackground.svg");
+    opacity: 0.9;
+background-repeat: no-repeat;
+background-size: 100%;
+
+display: flex;
+flex-direction: row;
+
+width: 100%;
+Height: 10%;
+margin: 0px 0px 5px 0px;
+
+}
+
+.title{
+    width:70%;
+    margin: 10px 10px 10px 20px;
+    justify-content: center;
+   
+
+}
+
+h1{
+    margin: 15px 0px 0px 30px;
+    font-size: medium;
+    font-weight: 500;
+    color:#531d96;
+}
+
+.pagelinks{
+display:flex;
+flex-direction: row;
+justify-content: right;
+
+}
+
+h3{
+    margin:20px;
+    font-size: medium;
+    color:#531d96;
+    font-weight: 500;
+    margin: 25px 25px 25px 0px;
+
+}
+
+.section1{
+    width:100%;
+    height: 650px;
+    display:flex;
+    flex-direction: row;
+
+}
+
+.joinadventure{
+    justify-content: center;
+    width:50%;
+    margin:0px;
+
+}
+
+.whichpath{
+    justify-content: left;
+    margin:120px 0px 10px 60px;
+    font-size: 40px;
+    color:#531d96;
+
+}
+
+.discover{
+    justify-content: left;
+    margin:30px 0px 10px 60px;
+    font-size: medium;
+    color:#4b1a86;
+}
+
+.startcontainer{
+    margin: 0px;
+position: relative;
+text-align: center;
+color: white;
+
+}
+
+.Start{
+margin:20px 45% 10px 0px;
+width: 35%;
+height: 15%;
+
+    
+}
+
+.JoinMission{
+position: absolute;
+top:47%;
+left: 17.5%;
+transform: (-50%, -50%);
+
+}
+
+.landingimagecontainer{
+    width:50%;
+    margin:0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    
+}
+
+.landinggraphic{
+Width: 1100px;
+height:650px;
+margin: 0px;
+position: relative;
+right: 400px;
+bottom: 50px;
+z-index: -1;
+}
+
+.section2{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+text-align: center;
+    justify-content: center;
+
+}
+
+.aboutthis {
+    margin: 0px;
+font-size: 30px;
+color:#531d96 ;
+
+}
+
+.aboutthis2{
+    font-size: medium;
+    color:#531d96;
+    justify-content: center;
+    margin: 0px;
+}
+
+.section3{
+display: flex;
+flex-direction: row;
+width: 100%;
+margin:0px;
+
+}
+
+.what{
+Width: 350px;
+height: 500px;
+margin: 50px 0px 0px 20%;
+background:#200a3b ;
+justify-content: Center;
+border-radius: 10%;
+color: white;
+
+
+}
+
+.why{
+    Width: 350px;
+height: 600px;
+margin: 50px 0px 0px 20%;
+background:#200a3b ;
+justify-content: Center;
+border-radius: 10%;
+color: white;
+
+
+}
+
+.whatimg{
+    width:100%;
+    height: 200px;
+
+    margin: 0px 0px 0px 0px;
+}
+
+.whyimg{
+width: 100%;
+height: 200px;
+margin: 0px;
+
+}
+
+.question{
+justify-content: center;
+color: white;
+margin: 10px 0px 0px 25%;
+font-size: 30px;
+}
+.expliation{
+    width: 90%;
+    text-align: center;
+    justify-content: center;
+ margin: 30px 5px 0px 20px;
+    font-size: medium;
+}
+
+.learnmorecontainer{
+position: relative;
+text-align: center;
+color: white;
+
+
+}
+.learnmore{
+    position:relative;
+    top: 61px;
+width: 100%;
+height: 27%;
+border-radius: 10%;
+
+   
+}
+
+.learnmore2{
+    position:relative;
+    width:100%;
+    height: 27%;
+    top: 61px;
+    margin: 0px;
+}
+
+.learnmorewords{
+position: absolute;
+color: white;
+text-align: center;
+left: 31%;
+bottom: 3%;
+font-size: larger;
+
+}
+
+.why{
+    Width: 360px;
+    height: 500px;
+    margin: 50px 0px 0px 5%;
+    background:#200a3b ;
+    justify-content: Center;
+    border-radius: 10%;
+    color: white;
+
+}
+
+
+.what-modal{
+width:100%;
+height:100%;
+background-color: rgba(0,0,0,0.5) black;
+opacity:0.7;
+position: absolute;
+top: 0;
+display: flex;
+justify-content: center ;
+align-items: center;
+display: none;
+
+}
+
+.what-modal-content{
+width: 500px;
+height: 300px;
+background-color: rgba(0,0,0,0)white;
+
+
+}
+
+
+
+/*This next block of code will be in relation to about.html */
+
+.aboutsection1{
+width: 100%;
+height: 600px;
+margin: 0px;
+display: flex;
+flex-direction: row;
+
+
+
+}
+
+.OurMission{
+    width:50%;
+    margin: 0px;
+    color: #4b1a86;
+
+
+}
+
+.OM1{
+Margin: 80px 0px 0px 70px;
+font-size: x-large;
+color: #4b1a86;
+font-size: 50px;
+
+}
+
+.OM2{
+    margin: 40px 0px 0px 70px;
+    font-size:20px;
+}
+
+.OM3{
+    margin: 30px 0px 0px 70px;
+    font-size:20px;
+
+}
+
+.planeticoncontainer{
+width: 50%;
+margin:0px;
+
+
+}
+
+.planeticon{
+    position: relative;
+
+    margin:0px 0px 0px 50px;
+width:70%;
+height: 70%;
+
+}
+
+.aboutsection2{
+    width: 100%;
+    margin:0px;
+    background: rgb(49,16,91);
+background: linear-gradient(180deg, rgba(49,16,91,1) 42%, rgba(40,37,119,1) 95%);
+display: flex;
+flex-direction: row;
+
+
+
+}
+
+.Careerreportleft{
+margin:0px;
+width: 40%;
+
+}
+
+.careerreportright{
+margin:opx;
+width: 60%;
+color:white;
+
+
+}
+
+.CR1{
+    margin: 10% 0px 0px 0px;
+    font-size: 40px;
+
+
+}
+
+.aboutsection3{
+width: 100%;
+margin:0px;
+display: flex;
+flex-direction: row;
+}
+
+.aboutsection3l{
+width:60%;
+margin:0px;
+
+}
+
+.aboutsection3r{
+width:40%;
+margin:0px;
+justify-content: center;
+
+}
+
+.avatar{
+    width:100%;
+    margin:0px;
+
+}

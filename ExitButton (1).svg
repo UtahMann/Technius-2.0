@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="314.338" height="46.733" viewBox="0 0 314.338 46.733">
+  <defs>
+    <filter id="EXIT_GAME" x="91.128" y="5.733" width="138" height="41" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="exit_button" data-name="exit button" transform="translate(-1106.395 -365.403)">
+    <g id="Path_370" data-name="Path 370">
+      <path id="Path_370-2" data-name="Path 370-2" d="M1108.27,365.4" fill="#fff" stroke="#010507" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25"/>
+    </g>
+    <g id="Path_370-2-2" data-name="Path 370">
+      <path id="Path_370-2-3" data-name="Path 370-2" d="M1108.481,365.889" fill="#fff"/>
+    </g>
+    <g id="Path_370-3" data-name="Path 370">
+      <path id="Path_370-2-4" data-name="Path 370-2" d="M1115.224,367.727" fill="#fff" stroke="#446093" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Group_89" data-name="Group 89">
+        <path id="Path_463" data-name="Path 463" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="#fff" opacity="0.2"/>
+        <path id="Path_464" data-name="Path 464" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="#fff" opacity="0.25"/>
+        <path id="Path_465" data-name="Path 465" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="#fff" opacity="0.3"/>
+        <path id="Path_466" data-name="Path 466" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="#fff"/>
+        <path id="Path_467" data-name="Path 467" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="#fff"/>
+        <path id="Path_468" data-name="Path 468" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="#fff"/>
+        <path id="Path_469" data-name="Path 469" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="#10425d"/>
+      </g>
+      <g id="Group_102" data-name="Group 102">
+        <path id="Path_463-2" data-name="Path 463" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="none" stroke="#83a3d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" opacity="0.2"/>
+        <path id="Path_464-2" data-name="Path 464" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="none" stroke="#7097cb" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" opacity="0.25"/>
+        <path id="Path_465-2" data-name="Path 465" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="none" stroke="#618ec6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.15" opacity="0.3"/>
+        <path id="Path_466-2" data-name="Path 466" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="none" stroke="#0672b6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+        <path id="Path_467-2" data-name="Path 467" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="none" stroke="#628fc6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.95"/>
+        <path id="Path_468-2" data-name="Path 468" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="none" stroke="#85a4d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+        <path id="Path_469-2" data-name="Path 469" d="M1120.207,383.831l-11.3-11.521,31.533,32.149h277.793l-30.018-33.409-263.984,1.191-15.325.069" fill="none" stroke="#adc0e0" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1106.4, 365.4)" filter="url(#EXIT_GAME)">
+      <text id="EXIT_GAME-2" data-name="EXIT GAME" transform="translate(160.13 29.73)" fill="#ff7277" font-size="20" font-family="NasalizationRg-Regular, Nasalization"><tspan x="-59.34" y="0">EXIT GAME</tspan></text>
+    </g>
+  </g>
+</svg>
